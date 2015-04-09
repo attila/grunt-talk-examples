@@ -1,0 +1,3 @@
+[submodule "savviorjs"]
+	path = savviorjs
+	url = https://github.com/attila/savvior.git
